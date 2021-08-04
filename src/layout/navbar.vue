@@ -126,6 +126,7 @@ export default {
     }
     p {
       margin-left: 15px;
+      cursor: pointer;
     }
   }
 }
